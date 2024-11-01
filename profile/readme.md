@@ -24,7 +24,6 @@ Desenvolvemos uma plataforma intuitiva que garante que todos no IFBA possam aces
 ## 🔗 Conecte-se Conosco
 Fique por dentro das nossas últimas atualizações e recursos:
 
-- [Discord](#)  
 - [Site Oficial](#)  
 
 **IFBA Agendamento de Horários - Facilitando o seu dia a dia acadêmico.**
