@@ -9,6 +9,7 @@ Nosso objetivo é revolucionar a maneira como alunos e educadores interagem com 
 
 ## 🕒 O Que Fazemos  
 <p style='font-size: 18px; text-align: justify;'>
+
 - **Gerenciamento de Agendamentos**: Criamos uma solução abrangente que permite que alunos e professores agendem, visualizem e gerenciem horários de aulas, reuniões e eventos de maneira integrada. Com nossa interface intuitiva, é possível verificar a disponibilidade em tempo real e evitar conflitos de horário, garantindo que todos possam participar das atividades sem problemas.
 
 - **Notificações e Lembretes**: Implementamos um sistema de notificações automáticas que lembra os usuários sobre seus agendamentos. Com alertas enviados via e-mail ou notificações push, nossos usuários nunca mais perderão um compromisso importante. Isso ajuda a fomentar uma cultura de responsabilidade e compromisso, tanto para alunos quanto para professores.
@@ -18,6 +19,7 @@ Nosso objetivo é revolucionar a maneira como alunos e educadores interagem com 
 
 ## 🏆 Nossos Valores  
 <p style="font-size: 18px; text-align: justify;">  
+
 - **Eficácia e Clareza**: Priorizamos a clareza na comunicação e a eficácia na gestão dos horários. Nossa plataforma é projetada para que as informações sejam facilmente compreendidas e acessíveis, permitindo que todos se concentrem no que realmente importa: o aprendizado e o ensino.
 
 - **Acessibilidade**: Acreditamos que todos devem ter acesso fácil a ferramentas que facilitam a organização de suas atividades. Por isso, nossa plataforma é desenvolvida com foco na inclusão, garantindo que todos, independentemente de suas habilidades tecnológicas, possam utilizá-la sem dificuldades.
